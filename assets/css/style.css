@@ -1,4 +1,4 @@
-.btn-laranja {
+.btn {
   width: 200px;
   padding: 10px 0;
   background: none;
@@ -6,35 +6,19 @@
   border-radius: 10px;
   display: block;
   margin: 10px 0;
+  cursor: pointer;
+}
+.btn.btn-laranja {
   background: orange;
   color: #fff;
-  cursor: pointer;
 }
-
-.btn-roxo {
-  width: 200px;
-  padding: 10px 0;
-  background: none;
-  border: none;
-  border-radius: 10px;
-  display: block;
-  margin: 10px 0;
+.btn.btn-roxo {
   background: purple;
   color: #fff;
-  cursor: pointer;
 }
-
-.btn-amarelo {
-  width: 200px;
-  padding: 10px 0;
-  background: none;
-  border: none;
-  border-radius: 10px;
-  display: block;
-  margin: 10px 0;
+.btn.btn-amarelo {
   background: yellow;
   color: #000;
-  cursor: pointer;
 }
 
 /*# sourceMappingURL=style.css.map */
