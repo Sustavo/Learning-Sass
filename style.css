@@ -1,5 +1,13 @@
-p {
+p span {
   background: red;
+}
+
+p b {
+  background: black;
+}
+  
+p:hover {
+  color: #fff;
 }
 
 /*# sourceMappingURL=style.css.map */

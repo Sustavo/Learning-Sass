@@ -6,4 +6,9 @@ p {
     b {
         background: black;
     }
+
+    &:hover {
+        color: #fff;
+    }
 }
+
