@@ -4,13 +4,9 @@
     background: none;
     border: none;
     border-radius: 10px;
-
-    &.btn-laranja {
-        background: orange;
-    }
 }
 
 .btn-laranja {
     @extend .btn;
-    background: blue;
+    background: orange;
 }

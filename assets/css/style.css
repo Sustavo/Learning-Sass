@@ -5,12 +5,9 @@
   border: none;
   border-radius: 10px;
 }
-.btn.btn-laranja, .btn-laranja {
-  background: orange;
-}
 
 .btn-laranja {
-  background: blue;
+  background: orange;
 }
 
 /*# sourceMappingURL=style.css.map */
