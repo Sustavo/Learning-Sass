@@ -2,6 +2,11 @@
     background: $background;
     color: $color;
 
+    &:hover {
+        background: grayscale($background);
+        // background: darken($background, 10%);
+    }
+
 }
 
 .btn {
